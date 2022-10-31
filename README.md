@@ -1,4 +1,4 @@
-[![ProfileBanner](https://raw.githubusercontent.com/MdAbdullahAlMahmud/MdAbdullahAlMahmud/main/updated_git_back.jpg)](https://sites.google.com/diu.edu.bd/mdabdullahalmahmud/home)
+[![ProfileBanner]https://raw.githubusercontent.com/NadiyaNodi/NadiyaNodi/main/github_backend.jpg)]
 
 ### About me🧑:
 I am  a web developer.<br/>
@@ -49,21 +49,14 @@ I am interested in learning app development 💖 to grow my knowledge in these T
   <img align="left" alt="Dave's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
 </a>
 
-<a href="https://github.com/MdAbdullahAlMahmud">
+<a href="https://github.com/NadiyaNodi">
   <img align="left" alt="Abdullah's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
 </a>
 
-<a href="https://www.facebook.com/cypher.abdullah/">
-  <img align="left" alt="Abdullah's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
+<a href="https://www.facebook.com/profile.php?id=100082601656260">
+  <img align="left" alt="Nadia's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
 </a>
 
-<a href="https://twitter.com/AbdullahCypher">
-  <img align="left" alt="Abdullah's Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
-</a>
-
-<a href="https://www.linkedin.com/in/md-abdullah-al-mahmud-87b590175/">
-  <img align="left" alt="Abdullah's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
-</a>
 
 <br/>
 
@@ -73,47 +66,19 @@ I am interested in learning app development 💖 to grow my knowledge in these T
 
 ### Github Activity ✔:
 
-<a href="https://github.com/MdAbdullahAlMahmud">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MdAbdullahAlMahmud&show_icons=true&theme=tokyonight&line_height=27" />
+<a href="https://github.com/NadiyaNodi">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NadiyaNodi&show_icons=true&theme=tokyonight&line_height=27" />
   </a>
 
-<a href="https://github.com/MdAbdullahAlMahmud">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=MdAbdullahAlMahmud&show_icons=true&theme=tokyonight&line_height=27" alt="Abdullah's github stats"/>
+<a href="https://github.com/NadiyaNodi">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=NadiyaNodi&show_icons=true&theme=tokyonight&line_height=27" alt="Nadia's github stats"/>
 </a>
 
 <br/>
 <br/>
 <br/>
 
-### My  Projects ✨ Play Store:
-  <div align="center">
-<a href="https://play.google.com/store/apps/details?id=com.mkrlabs.mumowallpaper">
-  <img align="center" src="https://raw.githubusercontent.com/MdAbdullahAlMahmud/MdAbdullahAlMahmud/assest/4kwallpaper.JPG" width="386" height="214"/>
-</a>
 
-<a href="https://github.com/MdAbdullahAlMahmud">
-  <img align="center" src="https://raw.githubusercontent.com/MdAbdullahAlMahmud/MdAbdullahAlMahmud/assest/hadis_sikhi.JPG" width="386" height="214"/>
-</a>
-
-  <a href="https://play.google.com/store/apps/details?id=com.mkrlabs.procoderjava">
-  <img align="center" src="https://raw.githubusercontent.com/MdAbdullahAlMahmud/MdAbdullahAlMahmud/assest/procoder.JPG" width="386" height="214"/>
-</a>
-  
-   <a href="https://play.google.com/store/apps/details?id=com.mkrlabs.waterremainder">
-  <img align="center" src="https://raw.githubusercontent.com/MdAbdullahAlMahmud/MdAbdullahAlMahmud/assest/water_tracker.JPG" width="386" height="214"/>
-</a>
-  
-  <a href="https://github.com/MdAbdullahAlMahmud">
-  <img align="center" src="https://raw.githubusercontent.com/MdAbdullahAlMahmud/MdAbdullahAlMahmud/assest/kheladhulabd.JPG" width="386" height="214"/>
-</a>
-
-<a href="https://github.com/MdAbdullahAlMahmud">
-  <img align="center" src="https://raw.githubusercontent.com/MdAbdullahAlMahmud/MdAbdullahAlMahmud/assest/phonebook.JPG" width="386" height="214"/>
-</a>
-
-
-
-  
 </div>
 
 Last Edited on: 11/07/2021
