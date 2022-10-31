@@ -1,4 +1,4 @@
-[![ProfileBanner]https://raw.githubusercontent.com/NadiyaNodi/NadiyaNodi/main/github_backend.jpg)]
+[![ProfileBanner](https://raw.githubusercontent.com/NadiyaNodi/NadiyaNodi/main/github_backend.jpg)]
 
 ### About me🧑:
 I am  a web developer.<br/>
@@ -26,8 +26,7 @@ I am interested in learning app development 💖 to grow my knowledge in these T
 ---
 ### 🛠️ Languages and Tools:
 
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
-![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=Android)
+
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma)
 ![MySql](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=MySql)
