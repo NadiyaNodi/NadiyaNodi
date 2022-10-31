@@ -1,4 +1,4 @@
-[![ProfileBanner](https://raw.githubusercontent.com/NadiyaNodi/NadiyaNodi/main/github_backend.jpg)]
+![ProfileBanner](https://raw.githubusercontent.com/NadiyaNodi/NadiyaNodi/main/github_backend.jpg)
 
 ### About me🧑:
 I am  a web developer.<br/>
